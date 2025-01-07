@@ -1,0 +1,13 @@
+{
+    "author": "XiaochenFTX",
+    "dependencies": {
+        "com.unity.render-pipelines.universal": "17.0.3"
+    },
+    "description": "NVIDIA VRSS C# wrap for Unity",
+    "displayName": "FTX nvVRSS",
+    "keywords": ["vrss", "unity", "foveated rendering"],
+    "license": "MIT",
+    "name": "org.ftxtool.nvvrss-unity",
+    "repository": "github:XiaochenFTX/FTXnvVRSS_UnityPlugin",
+    "version": "0.0.1"
+}
